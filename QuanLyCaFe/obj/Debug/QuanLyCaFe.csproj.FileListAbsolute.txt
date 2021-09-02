@@ -1,0 +1,39 @@
+E:\C#\QuanLyCaFe\bin\Debug\QuanLyCaFe.exe.config
+E:\C#\QuanLyCaFe\bin\Debug\QuanLyCaFe.exe
+E:\C#\QuanLyCaFe\bin\Debug\QuanLyCaFe.pdb
+E:\C#\QuanLyCaFe\obj\Debug\QuanLyCaFe.csprojAssemblyReference.cache
+E:\C#\QuanLyCaFe\obj\Debug\QuanLyCaFe.fLogin.resources
+E:\C#\QuanLyCaFe\obj\Debug\QuanLyCaFe.Properties.Resources.resources
+E:\C#\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.GenerateResource.cache
+E:\C#\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.CoreCompileInputs.cache
+E:\C#\QuanLyCaFe\obj\Debug\QuanLyCaFe.exe
+E:\C#\QuanLyCaFe\obj\Debug\QuanLyCaFe.pdb
+E:\C#\QuanLyCaFe\obj\Debug\QuanLyCaFe.fTableManager.resources
+E:\C#\QuanLyCaFe\obj\Debug\QuanLyCaFe.fAccountProfile.resources
+E:\C#\QuanLyCaFe\obj\Debug\QuanLyCaFe.fAdmin.resources
+D:\Dowload\Bài tập lớn csharp\QuanLyCaFe\bin\Debug\QuanLyCaFe.exe.config
+D:\Dowload\Bài tập lớn csharp\QuanLyCaFe\bin\Debug\QuanLyCaFe.exe
+D:\Dowload\Bài tập lớn csharp\QuanLyCaFe\bin\Debug\QuanLyCaFe.pdb
+D:\Dowload\Bài tập lớn csharp\QuanLyCaFe\obj\Debug\QuanLyCaFe.csprojAssemblyReference.cache
+D:\Dowload\Bài tập lớn csharp\QuanLyCaFe\obj\Debug\QuanLyCaFe.fAccountProfile.resources
+D:\Dowload\Bài tập lớn csharp\QuanLyCaFe\obj\Debug\QuanLyCaFe.fAdmin.resources
+D:\Dowload\Bài tập lớn csharp\QuanLyCaFe\obj\Debug\QuanLyCaFe.fLogin.resources
+D:\Dowload\Bài tập lớn csharp\QuanLyCaFe\obj\Debug\QuanLyCaFe.fTableManager.resources
+D:\Dowload\Bài tập lớn csharp\QuanLyCaFe\obj\Debug\QuanLyCaFe.Properties.Resources.resources
+D:\Dowload\Bài tập lớn csharp\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.GenerateResource.cache
+D:\Dowload\Bài tập lớn csharp\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.CoreCompileInputs.cache
+D:\Dowload\Bài tập lớn csharp\QuanLyCaFe\obj\Debug\QuanLyCaFe.exe
+D:\Dowload\Bài tập lớn csharp\QuanLyCaFe\obj\Debug\QuanLyCaFe.pdb
+D:\web\QuanLyCaFe\bin\Debug\QuanLyCaFe.exe.config
+D:\web\QuanLyCaFe\bin\Debug\QuanLyCaFe.exe
+D:\web\QuanLyCaFe\bin\Debug\QuanLyCaFe.pdb
+D:\web\QuanLyCaFe\obj\Debug\QuanLyCaFe.csprojAssemblyReference.cache
+D:\web\QuanLyCaFe\obj\Debug\QuanLyCaFe.fAccountProfile.resources
+D:\web\QuanLyCaFe\obj\Debug\QuanLyCaFe.fAdmin.resources
+D:\web\QuanLyCaFe\obj\Debug\QuanLyCaFe.fLogin.resources
+D:\web\QuanLyCaFe\obj\Debug\QuanLyCaFe.fTableManager.resources
+D:\web\QuanLyCaFe\obj\Debug\QuanLyCaFe.Properties.Resources.resources
+D:\web\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.GenerateResource.cache
+D:\web\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.CoreCompileInputs.cache
+D:\web\QuanLyCaFe\obj\Debug\QuanLyCaFe.exe
+D:\web\QuanLyCaFe\obj\Debug\QuanLyCaFe.pdb
